@@ -1,0 +1,2 @@
+SupermercadoCaja.DAO.BoletaDAO$BoletaResumen
+SupermercadoCaja.DAO.BoletaDAO
